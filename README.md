@@ -21,7 +21,9 @@ Activar la autenticación de dos factores es una buena idea. Esto añade más se
 
 Si pierdes acceso a Facebook, no te desanimes. Hay formas de recuperar tu cuenta. Puedes restablecer la contraseña o verificar tu identidad.
 
-Es vital seguir los pasos oficiales para recuperar tu cuenta. Así evitarás problemas adicionales.
+Es vital seguir los pasos oficiales para recuperar tu cuenta. Así evitarás problemas adicionales.<a href="https://archive.org/download/iii029832dd/iii029832dd.pdf
+">..</a>
+
 
 En conclusión, perder acceso a Facebook es un problema. Pero hay soluciones para evitarlo y recuperarlo. Al cuidar tu cuenta y seguir los pasos oficiales, mantendrás tu cuenta segura.
 
